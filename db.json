@@ -1,0 +1,15 @@
+{
+    "technos": [
+        {"id": 1, "name": "Angular", "description": "le framework front-end", "url": "https://angular.io/"},
+        {"id": 2, "name": "Node", "description": "JavaScript côté backe-end", "url": "https://nodejs.org/en/"},
+        {"id": 3, "name": "MongoDB", "description": "la célèbre base noSQL", "url": "https://www.mongodb.com/"},
+        {"id": 4, "name": "PWA", "description": "rendre vos applications ++", "url": "https://developer.mozilla.org/en-US/Apps/Progressive"}
+    ],
+
+    "liste": [
+        {"id": 1, "produit": "planche", "description": "Planche de 2mx1mx15cm", "prix": "30€/u"},
+        {"id": 2, "produit": "clou", "description": "Boite de 500 clou", "prix": "10€/u"},
+        {"id": 3, "produit": "vis", "description": "Boite de 500 vis", "prix": "15€/u"},
+        {"id": 4, "produit": "colle a bois", "description": "lot de pot de colle a bois 500ml", "prix": "20€/u"}
+    ]
+} 
